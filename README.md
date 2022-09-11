@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Charlie from @DaidalosDesign
 - 👀 I’m interested in Web Design
-- 🌱 I’m currently learning HTML, CSS & Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript & PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me at charlie@daidalosdesign.com
 
